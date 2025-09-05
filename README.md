@@ -17,7 +17,7 @@ Eu tinha desenvolvido um projeto com meu grupo super legal, e que consistia em f
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="illustrator logo" />
 <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="illustrator logo" />
 </div>
-
+<img src="https://skillicons.dev/icons?i=ps" height="50" alt="illustrator logo" />
 ---
 
 ## ⭐ GitHub Stats
